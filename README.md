@@ -19,7 +19,13 @@ An Arduino-based smart irrigation prototype that monitors soil moisture and cont
 - Breadboard and jumper wires
 
 ## How It Works
-The soil moisture sensor reads the moisture level of the soil and sends the value to the Arduino. Based on a threshold value, the Arduino switches the relay to turn the pump ON or OFF. The TP4056 module charges the 18650 battery using solar energy, and the battery powers the system when sunlight is unavailable.
+The soil moisture sensor reads the moisture level of the soil and sends the value to the Arduino. Based on a threshold value, the Arduino switches the relay to turn the pump ON or OFF. The TP4056 module charges the 18650 battery using solar energy, and the battery powers the system when sunlight is unavailable.## Working Model
+
+
+
+![Working Model](soil_moisture_project_image.jpeg)
+
+
 
 
 ## ⚠️ Project Status
